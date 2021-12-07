@@ -1,4 +1,4 @@
-<h3 align="center">data -analysis-project</h3>
+<h3 align="center">soccer player data analysis</h3>
 
 #### 使用K-Means分对足球运动员进行分析, 找出数据相似的球员
 
